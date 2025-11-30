@@ -12,6 +12,6 @@
 -Pandas,numpy,seaborn,sklearn
 
 ## Installing Jupyter
-If you do not have jupyter install run pip install jupyter
+If you do not have jupyter install run `pip install jupyter`
 
-After it has install you can run jupyter progress4.ipynb
+After it has install you can run `jupyter progress4.ipynb`
