@@ -6,11 +6,11 @@
 **Run each cell** by clicking the play button or pressing Shift + Enter
 **Continue until the end** of the notebook
 
-##Requirements
+## Requirements
 
 -Jupyter Notebook
 -Pandas,numpy,seaborn,sklearn
 
-##Installing Jupyter
+## Installing Jupyter
 If you do not have jupyter install run pip install jupyter
 After it has install you can run jupyter progress4.ipynb
