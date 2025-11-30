@@ -9,7 +9,10 @@
 ## Requirements
 
 - Jupyter Notebook
-- Pandas,numpy,seaborn,sklearn
+- Pandas
+- Numpy
+- Seaborn
+- Sklearn
 
 ## Installing Jupyter
 If you do not have jupyter install run ```pip install jupyter```
